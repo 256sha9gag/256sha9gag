@@ -8,8 +8,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,git,github,nodejs,jest)](https://skillicons.dev)
 
-### Education: 
-Bachelor's degree in political science and graduated from the Financial University under the Government of the Russian Federation
+### Education:
+## Financial University under the Government of the Russian Federation
+# Bachelor's degree in political science
 <!--
 **256sha9gag/256sha9gag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
