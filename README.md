@@ -11,6 +11,10 @@
 ## Education:
 ### Bachelor's degree in political science.
 Financial University under the Government of the RF.
+
+## Additional education:
+### Hexlet: [My Hexlet page](https://ru.hexlet.io/u/solutionjs)
+
 <!--
 **256sha9gag/256sha9gag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
