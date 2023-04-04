@@ -6,7 +6,7 @@
 
 ## My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,git,github,nodejs,jest,babel,bootstrap,react,redux,vscode,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,git,github,nodejs,jest,babel,bootstrap,react,redux,vscode,webpack&theme=dark)](https://skillicons.dev)
 
 ## Education:
 ### Bachelor's degree in political science.
