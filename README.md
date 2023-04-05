@@ -1,34 +1,11 @@
 ## Hello, I'm Gagik👋
-### I am a junior frontend developer from Moscow.
-
-## My github stats:
+### About me: 
+⚡ Junior FrontEnd developer from Moscow.
+🔭 I write FrontEnd in Javascript, React, Redux-toolkit, Bootstrap and like to use Eslint.
+🌱 I am currently learning typescript and docker.
+:mortar_board: Bachelor's degree in political science (Financial University under the Government of the RF)
+:computer: Graduated from frontend development courses. [My Hexlet page](https://ru.hexlet.io/u/solutionjs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=256sha9gag&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=256sha9gag&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## My skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,git,github,nodejs,jest,babel,bootstrap,react,redux,vscode,webpack&theme=dark)](https://skillicons.dev)
-
-## Education:
-### Bachelor's degree in political science.
-Financial University under the Government of the RF.
-
-## Additional education:
-### Hexlet: [My Hexlet page](https://ru.hexlet.io/u/solutionjs)
-
-## Additional education:
-
-<!--
-**256sha9gag/256sha9gag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
