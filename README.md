@@ -7,7 +7,7 @@
 - :mortar_board: Bachelor's degree in political science (Financial University under the Government of the RF).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=256sha9gag&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=256sha9gag&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=256sha9gag&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,git,github,nodejs,jest,babel,bootstrap,react,redux,vscode,webpack&theme=dark)](https://skillicons.dev)
