@@ -13,5 +13,5 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,git,github,nodejs,jest,babel,bootstrap,react,redux,vscode,webpack&theme=dark)](https://skillicons.dev)
 
 ### Сontact me at: 
-- :mailbox: [Gmail](256sha9gag@gmail.com)
+- :mailbox: Gmail: 256sha9gag@gmail.com
 - :iphone: [Telegram](https://t.me/solution_js)
