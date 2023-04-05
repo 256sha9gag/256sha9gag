@@ -14,4 +14,4 @@
 
 ### Сontact me at: 
 - :mailbox: 256sha9gag@gmail.com
-- :iphone: [[Telegram]](https://t.me/solution_js)
+- :iphone: [Telegram](https://t.me/solution_js)
