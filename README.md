@@ -1,11 +1,12 @@
 ## Hello, I'm Gagik👋
+### I am a junior frontend developer from Moscow.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=256sha9gag&langs_count=8&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=256sha9gag&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+## My github stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=256sha9gag&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=256sha9gag&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My skills:
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,git,github,nodejs,jest,babel,bootstrap,react,redux,vscode,webpack&theme=dark)](https://skillicons.dev)
 
 ## Education:
@@ -14,6 +15,8 @@ Financial University under the Government of the RF.
 
 ## Additional education:
 ### Hexlet: [My Hexlet page](https://ru.hexlet.io/u/solutionjs)
+
+## Additional education:
 
 <!--
 **256sha9gag/256sha9gag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
