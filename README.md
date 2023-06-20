@@ -12,4 +12,4 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/256sha9gag?ext=heatmap)](https://leetcode.com/256sha9gag)
 
-[![Codewar](https://www.codewars.com/users/256sha9gag/badges/large)]
+![Codewar](https://www.codewars.com/users/256sha9gag/badges/large)
