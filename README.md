@@ -6,8 +6,10 @@
 - :computer: Graduated from frontend development courses. [My Hexlet page](https://ru.hexlet.io/u/solutionjs).
 - :mortar_board: Bachelor's degree in political science (Financial University under the Government of the RF).
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/256sha9gag)](https://leetcode.com/256sha9gag)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/256sha9gag?ext=heatmap)](https://leetcode.com/256sha9gag)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=256sha9gag&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=256sha9gag&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My skills:
