@@ -6,6 +6,9 @@
 - :computer: Graduated from frontend development courses. [My Hexlet page](https://ru.hexlet.io/u/solutionjs).
 - :mortar_board: Bachelor's degree in political science (Financial University under the Government of the RF).
 
+### Skills:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)(https://git-scm.com/)
+
 ### Stats: 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/256sha9gag?ext=heatmap)](https://leetcode.com/256sha9gag)
 
